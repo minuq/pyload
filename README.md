@@ -196,7 +196,7 @@ Replace `<USERDIR>` with where you want that user data files (configurations) ar
 Compatible with `docker-compose` v2 schemas:
 
     ---
-    version: 2
+    version: "2"
     services:
       pyload:
         image: pyload/pyload
